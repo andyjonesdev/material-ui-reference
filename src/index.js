@@ -4,10 +4,6 @@ import ReactDOM from 'react-dom';
 import App from './App';
 
 const GlobalStyle = styled.div`
-  * {
-    padding: 0;
-    margin: 0;
-  }
   padding: 0 10vw;
   font-family: 'Roboto Mono', monospace;
   height: 100vh;

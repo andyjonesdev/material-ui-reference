@@ -2,7 +2,7 @@ import styled from "styled-components"
 
 const NavContainer = styled.div`
     padding-top: 1vh;
-    margin-bottom: 3vh;
+    margin-bottom: 4vh;
 `
 
 const Nav = () => {
